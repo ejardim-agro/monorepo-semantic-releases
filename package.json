@@ -7,8 +7,6 @@
     "apps/app-a",
     "apps/app-b",
     "libs/lib-a",
-    "libs/lib-b",
-    "libs/lib-c",
     "configs/config-release-it"
   ],
   "scripts": {
