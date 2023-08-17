@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@mono/lib-b": "0.3.0"
-  },
-  "devDependencies": {
-    "@mono/config-release-it": "0.1.0"
-  }
-}
