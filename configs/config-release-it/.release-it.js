@@ -16,7 +16,7 @@ module.exports = {
   git: {
     push: true,
     tagName: `${scope}/v${version}`,
-    pushRepo: "git@github.com:agroernesto/sandboxII.git",
+    pushRepo: "git@github.com:ejardim-agro/monorepo-semantic-releases.git",
     commitsPath: ".",
     commitMessage: `feat(${scope}): released version v${version} [no ci]`,
     requireCommits: true,
