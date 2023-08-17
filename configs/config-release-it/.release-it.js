@@ -15,8 +15,8 @@ module.exports = {
   },
   git: {
     push: true,
-    tagName: `${packageName}-v${version}`,
-    pushRepo: "git@github.com:ejardim-agro/monorepo-semantic-releases.git",
+    tagName: `${scope}/v${version}`,
+    pushRepo: "git@github.com:agroernesto/sandboxII.git",
     commitsPath: ".",
     commitMessage: `feat(${scope}): released version v${version} [no ci]`,
     requireCommits: true,
@@ -28,7 +28,7 @@ module.exports = {
   },
   github: {
     release: true,
-    releaseName: `${packageName}-v${version}`,
+    releaseName: `${scope}/v${version}`,
   },
   hooks: {
     "before:git:release": ["git add --all"],
