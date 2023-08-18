@@ -1,5 +1,7 @@
 
 
+## [0.3.0](https://github.com/ejardim-agro/monorepo-semantic-releases/compare/app-a/v0.2.0-dev...app-a/v0.3.0-dev) (2023-08-18)
+
 ## [0.2.0](https://github.com/ejardim-agro/monorepo-semantic-releases/compare/app-a/v0.1.0-dev...app-a/v0.2.0-dev) (2023-08-18)
 
 

@@ -1,5 +1,12 @@
 
 
+## [0.5.0](https://github.com/ejardim-agro/monorepo-semantic-releases/compare/config-release-it/v0.4.0-dev...config-release-it/v0.5.0-dev) (2023-08-18)
+
+
+### Bug Fixes
+
+* **config:** updated release config ([15b1244](https://github.com/ejardim-agro/monorepo-semantic-releases/commit/15b1244245eb40856d5e7ed2294779ce7e206e99))
+
 ## [0.4.0](https://github.com/ejardim-agro/monorepo-semantic-releases/compare/config-release-it/v0.3.0-dev...config-release-it/v0.4.0-dev) (2023-08-18)
 
 ## 0.3.0 (2023-08-18)
