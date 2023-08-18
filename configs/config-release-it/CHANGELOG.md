@@ -1,5 +1,7 @@
 
 
+## [0.4.0](https://github.com/ejardim-agro/monorepo-semantic-releases/compare/config-release-it/v0.3.0-dev...config-release-it/v0.4.0-dev) (2023-08-18)
+
 ## 0.3.0 (2023-08-18)
 
 
