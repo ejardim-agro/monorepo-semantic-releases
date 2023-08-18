@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/ejardim-agro/monorepo-semantic-releases/compare/app-a/v0.1.0-dev...app-a/v0.2.0-dev) (2023-08-18)
+
+
+### Bug Fixes
+
+* **app-a:** tweaked it a bit ([d837e65](https://github.com/ejardim-agro/monorepo-semantic-releases/commit/d837e6555472efef799ff302060afb4eb0c23b10))
+
 ## 0.1.0 (2023-08-18)
 
 
